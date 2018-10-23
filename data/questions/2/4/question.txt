@@ -1,0 +1,119 @@
+<div id="Frame1" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame2" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame3" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame4" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame5" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame6" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame7" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame8" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame9" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-1"></a><a name="MathJax-Element-1-Frame"></a><a name="MJXc-Node-3"></a><a name="MJXc-Node-2"></a><a name="MathJax-Element-2-Frame"></a><a name="MJXc-Node-4"></a><a name="MJXc-Node-5"></a><a name="MJXc-Node-6"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">There
+are&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">n</font>&nbsp;rectangles
+in a row. You can either turn each rectangle by&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">90</font>&nbsp;degrees
+or leave it as it is. If you turn a rectangle, its width will be
+height, and its height will be width. Notice that you can turn any
+number of rectangles, you also can turn all or none of them.&nbsp;<b>You
+can not change the order of the rectangles.</b></span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">Find
+out if there is a way to make the rectangles go in order of
+non-ascending height. In other words, after all the turns, a height
+of every rectangle has to be not greater than the height of the
+previous rectangle (if it is such).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-3-Frame"></a><a name="MJXc-Node-7"></a><a name="MJXc-Node-8"></a><a name="MJXc-Node-9"></a><a name="MathJax-Element-4-Frame"></a><a name="MJXc-Node-10"></a><a name="MJXc-Node-11"></a><a name="MJXc-Node-12"></a><a name="MJXc-Node-13"></a><a name="MJXc-Node-14"></a><a name="MJXc-Node-15"></a><a name="MJXc-Node-16"></a><a name="MJXc-Node-17"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">The
+first line contains a single integer&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">n</font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">1</font>≤<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">n</font>≤<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">10</font><sup><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">5</font></sup>)&nbsp;—
+the number of rectangles.</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-5-Frame"></a><a name="MJXc-Node-19"></a><a name="MJXc-Node-20"></a><a name="MJXc-Node-21"></a><a name="MathJax-Element-6-Frame"></a><a name="MJXc-Node-22"></a><a name="MJXc-Node-23"></a><a name="MJXc-Node-24"></a><a name="MJXc-Node-25"></a><a name="MJXc-Node-26"></a><a name="MJXc-Node-27"></a><a name="MJXc-Node-28"></a><a name="MJXc-Node-29"></a><a name="MJXc-Node-30"></a><a name="MathJax-Element-7-Frame"></a><a name="MJXc-Node-31"></a><a name="MathJax-Element-8-Frame"></a><a name="MJXc-Node-32"></a><a name="MJXc-Node-33"></a><a name="MJXc-Node-34"></a><a name="MJXc-Node-35"></a><a name="MJXc-Node-36"></a><a name="MJXc-Node-37"></a><a name="MJXc-Node-38"></a><a name="MJXc-Node-39"></a><a name="MJXc-Node-40"></a><a name="MJXc-Node-41"></a><a name="MJXc-Node-42"></a><a name="MJXc-Node-43"></a><a name="MJXc-Node-44"></a><a name="MJXc-Node-45"></a><a name="MathJax-Element-9-Frame"></a><a name="MJXc-Node-47"></a><a name="MJXc-Node-48"></a><a name="MJXc-Node-49"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">Each
+of the next&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">n</font>&nbsp;lines
+contains two integers&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">wi</font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">hi</font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">1</font>≤<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">w</font><sub><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">i</font></sub><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">,</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">h</font><sub><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">i</font></sub>≤<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">10</font><sup><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw">9</font></sup>)&nbsp;—
+the width and the height of the&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw">i</font>-th
+rectangle.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">Print
+&quot;<font face="courier new, monospace">YES</font>&quot; (without
+quotes) if there is a way to make the rectangles go in order of
+non-ascending height, otherwise print &quot;<font face="courier new, monospace">NO</font>&quot;.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">You
+can print each letter in any case (upper or lower).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><b><font color="#222222">input</span></b></font></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006167434436016654"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">3</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">3 4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">4 6</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">3 5</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><b><font color="#222222">output</span></b></font></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id002220931934361643"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">YES</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><b><font color="#222222">input</span></b></font></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006808122459995785"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">2</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">3 4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">5 5</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><b><font color="#222222">output</span></b></font></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004978021655900098"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="3" style="font-size: 12pt"><font color="#880000">NO</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">In
+the first test, you can rotate the second and the third rectangles so
+that the heights will be&nbsp;<font face="courier new, monospace">[4,
+4, 3]</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">In
+the second test, there is no way the second rectangle will be not
+higher than the first one.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

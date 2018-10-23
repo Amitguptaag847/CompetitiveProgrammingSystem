@@ -1,0 +1,220 @@
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.8pt;background:white'><span style='font-size:10.5pt;font-family:
+"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";color:#222222'>You
+are given an&nbsp;</span><i><span style='font-size:13.0pt;mso-bidi-font-size:
+11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>n</span></i><span style='font-size:13.0pt;mso-bidi-font-size:
+11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>&#8201;&times;&#8201;<i>m</i></span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>&nbsp;rectangular table consisting of lower case English
+letters. In one operation you can completely remove one column from the table.
+The remaining parts are combined forming a new table. For example, after
+removing the second column from the table<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:white'><span style='font-size:10.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'><br>
+<span class=SpellE><span class=GramE>abcd</span></span><br>
+<span class=SpellE>edfg</span><br>
+<span class=SpellE>hijk</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+class=GramE><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>we</span></span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'> obtain the table:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:white'><span style='font-size:10.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'><br>
+<span class=SpellE><span class=GramE>acd</span></span><br>
+<span class=SpellE>efg</span><br>
+<span class=SpellE>hjk</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>A table is called&nbsp;</span><u><span
+style='font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>good</span></u><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;if its rows are ordered from top to
+bottom lexicographically, i.e. each row is lexicographically no larger than the
+following one. Determine the minimum number of operations of removing a column
+needed to make a given table good.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>The first line contains two <span class=GramE>integers
+&nbsp;&mdash;</span>&nbsp;</span><i><span style='font-size:13.0pt;mso-bidi-font-size:
+11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>n</span></i><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;and&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>m</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;(</span><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>1&#8201;&#8804;&#8201;<i>n</i>,&#8201;<i>m</i>&#8201;&#8804;&#8201;</span><b><span
+style='font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>100</span></b><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Next&nbsp;</span><i><span style='font-size:
+13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>n</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;lines contain&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>m</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;small English letters each&nbsp;&mdash; the
+characters of the table.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Print a single number&nbsp;&mdash; the minimum
+number of columns that you need to remove in order to make the table good.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Examples<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>4 <span class=SpellE>4</span><br>
+case<br>
+care<br>
+test<br>
+code<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>2<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>5 4<br>
+code<br>
+<span class=SpellE>forc</span><br>
+<span class=SpellE>esco</span><br>
+<span class=SpellE>defo</span><br>
+<span class=SpellE>rces</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>4<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Note<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>In the first sample you may remove the first
+and third column.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>In the second sample you have to remove all the
+columns (note that the table where all rows are empty is considered good by
+definition).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Let strings&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>s</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;and&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>t</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;have equal length. Then,&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>s</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;is&nbsp;</span><u><span
+style='font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>lexicographically
+larger</span></u><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;than&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>t</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;if they are not equal and the character
+following the largest common prefix of&nbsp;</span><i><span style='font-size:
+13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>s</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;and&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>t</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;(the prefix may be empty) in&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>s</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;is alphabetically larger than the
+corresponding character of&nbsp;</span><i><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>t</span></i><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>.<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>

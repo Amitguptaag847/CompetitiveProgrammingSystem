@@ -1,0 +1,78 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">A
+one-dimensional Secret crossword can be represented as a binary
+string of length&nbsp;<i>x</i>. An encoding of this crossword is an
+array&nbsp;<i>a</i>&nbsp;of size&nbsp;<i>n</i>, where&nbsp;<i>n</i>&nbsp;is
+the number of segments formed completely of&nbsp;1's, and&nbsp;<i>a</i><sub><i>i</i></sub>&nbsp;is
+the length of&nbsp;<i>i</i>-th segment. No two segments touch or
+intersect.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">For
+example:</span></font></font></font></p>
+<ul>
+	<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">If&nbsp;<i>x</i> = 6&nbsp;and
+	the crossword is&nbsp;111011, then its encoding is an array&nbsp;{3, 2};</span></font></font></font></p>
+	<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">If&nbsp;<i>x</i> = 8&nbsp;and
+	the crossword is&nbsp;01101010, then its encoding is an
+	array&nbsp;{2, 1, 1};</span></font></font></font></p>
+	<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">If&nbsp;<i>x</i> = 5&nbsp;and
+	the crossword is&nbsp;11111, then its encoding is an array&nbsp;{5};</span></font></font></font></p>
+	<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">If&nbsp;<i>x</i> = 5&nbsp;and
+	the crossword is&nbsp;00000, then its encoding is an empty array.</span></font></font></font></p>
+</ul>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">Mishka
+wants to create a new one-dimensional Secret crossword. He has
+already picked the length and the encoding for this crossword. And
+now he needs to check if there is&nbsp;<b>exactly one</b>&nbsp;crossword
+such that its length and encoding are equal to the length and
+encoding he picked. Help him to check it!</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">The
+first line contains two integer
+numbers&nbsp;<i>n</i>&nbsp;and&nbsp;<i>x</i>&nbsp;(1 ≤ <i>n</i> ≤ 100000,&nbsp;1 ≤ <i>x</i> ≤ 10<sup>9</sup>)
+— the number of elements in the encoding and the length of the
+crossword Mishka picked.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">The
+second line contains&nbsp;<i>n</i>&nbsp;integer numbers&nbsp;<i>a</i><sub>1</sub>,&nbsp;<i>a</i><sub>2</sub>,
+...,&nbsp;<i>an</i>&nbsp;(1 ≤ <i>a</i><sub><i>i</i></sub> ≤ 10000)
+— the encoding.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#222222">Print&nbsp;“YES”
+(upper case without quotes)&nbsp;if there exists&nbsp;<b>exaclty
+one</b>&nbsp;crossword with chosen length and encoding. Otherwise,
+print&nbsp;“NO” (upper case without quotes)&nbsp;.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">input</span></b></font></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id008308691609044652"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">2 4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">1 3</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">output</span></b></font></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004420241243269383"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">NO</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">input</span></b></font></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00645228466365972"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">3 10</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">3 3 2</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">output</span></b></font></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0008502308030728867"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">YES</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">input</span></b></font></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id005552726527359584"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">2 10</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">1 3</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">output</span></b></font></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0022730153473337356"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><font color="#880000">NO</span></font></font></font></pre><p style="margin-bottom: 0cm; line-height: 100%">
+<br/>
+
+</p>

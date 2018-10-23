@@ -1,0 +1,197 @@
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.8pt;background:white'><span style='font-size:10.5pt;font-family:
+"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";color:#222222'>Two
+polar bears <span style='mso-spacerun:yes'>Menshykov and Uslada from the St.Petersburg </span>from a zoo and elephant from
+the <span style='mso-spacerun:yes'>Kiev </span>zoo got six sticks to play with and
+assess the animals' creativity.They decided to make either an elephant or a
+bear from those sticks. They can make an animal from sticks in the following
+way:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.3in;margin-bottom:.0001pt;text-indent:-.25in;line-height:18.0pt;
+mso-list:l0 level1 lfo1;tab-stops:list .5in;background:white'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
+style='mso-list:Ignore'>=><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>Four sticks represent
+the animal's legs, these sticks should have the same length.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.3in;margin-bottom:.0001pt;text-indent:-.25in;line-height:18.0pt;
+mso-list:l0 level1 lfo1;tab-stops:list .5in;background:white'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
+style='mso-list:Ignore'>=><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>Two remaining sticks
+represent the animal's head and body. The bear's head stick must be shorter
+than the body stick. The elephant, however, has a long trunk, so his head stick
+must be as long as the body stick. Note that there are no limits on the relations
+between the leg sticks and the head and body sticks.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Your task is to find out which animal can be
+made from the given stick set. The zoo keeper wants the sticks back after the
+game, so they must never be broken, even bears understand it.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>The single line contains six space-separated
+integers&nbsp;</span><i><span style='font-size:13.0pt;mso-bidi-font-size:11.0pt;
+font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>l</span></i><i><sub><span style='font-size:10.0pt;mso-bidi-font-size:
+11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>i</span></sub></i><span style='font-size:10.5pt;font-family:
+"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;(</span><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>1&#8201;&#8804;&#8201;<i>l</i></span><i><sub><span
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>i</span></sub></i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&#8201;&#8804;&#8201;9</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>) where <i>l</i></span><i><sub><span
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>i</span></sub></i> is the lengths of the six sticks. It is
+guaranteed that the input is such that you cannot make both animals from the
+sticks.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>If you can make a bear from the given set,
+print string &quot;</span><span style='font-size:11.5pt;mso-bidi-font-size:
+11.0pt;font-family:"Courier New";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Bear</span><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&quot; (without the
+quotes). If you can make an elephant, print string &quot;</span><span
+style='font-size:11.5pt;mso-bidi-font-size:11.0pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#222222'>Elephant</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&quot; (w&#305;thout the quotes). If you can
+make neither a bear nor an elephant, print string &quot;</span><span
+style='font-size:11.5pt;mso-bidi-font-size:11.0pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#222222'>Alien</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&quot; (without the quotes).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Examples<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>4 2 5 4 4 4<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>Bear<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>4 4 5 4 4 5<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>Elephant<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>1 2 3 4 5 6<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>Alien<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Note<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>If you're out of creative ideas, see
+instructions below which show how to make a bear and an elephant in the first
+two samples. The stick of length 2 is in red, the sticks of length 4 are in
+green, the sticks of length 5 are in blue.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;text-align:center;
+background:white'><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+ alt=""
+ style='width:384pt;height:152.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="question_files/image001.png" o:title="923ab226305b5e48d53759b5b3e52fb283499847"/>
+</v:shape><![endif]--><![if !vml]><img width=512 height=203
+src="img/img1.png"
+alt=""
+v:shapes="Picture_x0020_1"><![endif]></span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>

@@ -1,0 +1,158 @@
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.8pt;background:white'><span class=SpellE><span style='font-size:
+10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Arpan</span></span><span style='font-size:10.5pt;font-family:
+"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";color:#222222'>
+is selling <span class=SpellE>photobooks</span> of the <span class=SpellE>Southpoint</span>
+High School Host Club. He has 26 photos, labeled &quot;a&quot; to
+&quot;z&quot;, and he has compiled them into a photo booklet with some photos
+in some order (possibly with some photos being duplicated). A photo booklet can
+be described as a string of lowercase letters, consisting of the photos in the
+booklet in order. He now wants to sell some &quot;special edition&quot; <span
+class=SpellE>photobooks</span>, each with one extra photo inserted anywhere in
+the book. He wants to make as many distinct <span class=SpellE>photobooks</span>
+as possible, so he can make more money. He asks <span class=SpellE>Hari</span>,
+how many distinct <span class=SpellE>photobooks</span> can he make by inserting
+one extra photo into the <span class=SpellE>photobook</span> he already has?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Please help <span class=SpellE>Hari</span>
+solve this problem.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>The first line of input will be a single
+string&nbsp;</span><i><span style='font-size:13.0pt;mso-bidi-font-size:11.0pt;
+font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>s</span></i><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;(</span><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>1&#8201;&#8804;&#8201;|<i>s</i>|&#8201;&#8804;&#8201;20</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>). String&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>s</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;consists only of lowercase English
+letters.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Output a single integer equal to the number of
+distinct <span class=SpellE>photobooks</span> <span class=SpellE>Arpan</span>
+can make.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Examples<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span class=GramE><span style='font-size:9.5pt;font-family:
+Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>a</span></span><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>51<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span class=GramE><span style='font-size:9.5pt;font-family:
+Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>hi</span></span><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>76<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Note<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>In the first case, we can make '</span><span
+class=SpellE><span style='font-size:11.5pt;mso-bidi-font-size:11.0pt;
+font-family:"Courier New";mso-fareast-font-family:"Times New Roman";color:#222222'>ab</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>',<span class=GramE>'<span style='font-size:
+11.5pt;mso-bidi-font-size:11.0pt;font-family:"Courier New"'>ac</span></span></span></span><span
+class=GramE><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>',</span><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>...</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>,'</span><span class=SpellE><span
+style='font-size:11.5pt;mso-bidi-font-size:11.0pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#222222'>az</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>'</span></span></span><span class=SpellE><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>,'</span><span style='font-size:11.5pt;
+mso-bidi-font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+"Times New Roman";color:#222222'>ba</span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>','</span><span style='font-size:11.5pt;mso-bidi-font-size:11.0pt;
+font-family:"Courier New";mso-fareast-font-family:"Times New Roman";color:#222222'>ca</span></span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>',</span><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>...</span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>,'</span><span class=SpellE><span style='font-size:11.5pt;
+mso-bidi-font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+"Times New Roman";color:#222222'>za</span></span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>', and '</span><span class=SpellE><span style='font-size:11.5pt;
+mso-bidi-font-size:11.0pt;font-family:"Courier New";mso-fareast-font-family:
+"Times New Roman";color:#222222'>aa</span></span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>', producing a total of 51 distinct photo booklets.<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>

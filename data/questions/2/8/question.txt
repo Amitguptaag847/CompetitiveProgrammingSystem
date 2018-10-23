@@ -1,0 +1,54 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><br/>
+Some
+natural number was written on the board. Its sum of digits was not
+less than&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font>.
+But you were distracted a bit, and someone changed this number to&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>,
+replacing some digits with others. It's known that the length of the
+number didn't change.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+have to find the minimum number of digits in which these two numbers
+can differ.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains integer&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>k</i></font><font size="3" style="font-size: 12pt"> ≤ 10</font><sup><font size="2" style="font-size: 9pt">9</font></sup>).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+second line contains integer&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font><font size="3" style="font-size: 12pt"> &lt; 10</font><sup><font size="2" style="font-size: 9pt">100000</font></sup>).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">There
+are no leading zeros in&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>.
+It's guaranteed that this situation is possible.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+the minimum number of digits in which the initial number and&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;can
+differ.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009631316818393449"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">11</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0015423055536130015"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009017123032303975"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">99</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004685820320762708"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example, the initial number could be&nbsp;<font size="3" style="font-size: 12pt">12</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example the sum of the digits of&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;is
+not less than&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font>.
+The initial number could be equal to&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

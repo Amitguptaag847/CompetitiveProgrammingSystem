@@ -1,0 +1,167 @@
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.8pt;background:white'><span style='font-size:10.5pt;font-family:
+"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";color:#222222'>It's
+one more school day now. Sasha doesn't like classes and is always bored at
+them. So, each day he invents some game and plays in it alone or with friends.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Today he invented one simple game to play with
+Lena, with whom he shares a desk. The rules are simple. Sasha draws&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>n</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;sticks in a row. After that the players
+take turns crossing out exactly&nbsp;</span><i><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>k</span></i><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>&nbsp;sticks from left or right in each turn. Sasha moves first,
+because he is the inventor of the game. If there are less than&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>k</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;sticks on the paper before some turn,
+the game ends. Sasha wins if he makes strictly more moves than Lena. Sasha
+wants to know the result of the game before playing, you are to help him.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>The first line contains two integers&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>n</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;and&nbsp;</span><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>k</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;(</span><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>1&#8201;&#8804;&#8201;<i>n</i>,&#8201;<i>k</i>&#8201;&#8804;&#8201;10</span><sup><span
+style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>18</span></sup><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>,&nbsp;</span><i><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>k</span></i><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&#8201;&#8804;&#8201;<i>n</i></span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>)&nbsp; &mdash; the number of sticks drawn by Sasha
+and the number&nbsp;</span><i><span style='font-size:13.0pt;mso-bidi-font-size:
+11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>k</span></i><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp; is the number of
+sticks to be crossed out on each turn.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>If Sasha wins, print &quot;</span><span
+style='font-size:11.5pt;mso-bidi-font-size:11.0pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#222222'>YES</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&quot; (without quotes)<span class=GramE>,</span>
+otherwise print &quot;</span><span style='font-size:11.5pt;mso-bidi-font-size:
+11.0pt;font-family:"Courier New";mso-fareast-font-family:"Times New Roman";
+color:#222222'>NO</span><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&quot; (without
+quotes).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>You have to print each letter in upper case.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Examples<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>1 <span class=SpellE>1</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>YES<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>10 4<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>NO<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Note<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>In the first example Sasha crosses out&nbsp;</span><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>1</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;stick, and then there are no sticks. So
+Lena can't make a move, and Sasha wins.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>In the second example Sasha crosses out&nbsp;</span><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>4</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;sticks, then Lena crosses out&nbsp;</span><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>4</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;sticks, and after that there are
+only&nbsp;</span><span style='font-size:13.0pt;mso-bidi-font-size:11.0pt;
+font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>2</span><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;sticks left.
+Sasha can't make a move. The players make equal number of moves, so Sasha
+doesn't win.<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>

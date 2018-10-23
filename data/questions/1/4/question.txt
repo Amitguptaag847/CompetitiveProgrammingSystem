@@ -1,0 +1,134 @@
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.8pt;background:white'><span class=SpellE><span style='font-size:
+10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Vasily</span></span><span style='font-size:10.5pt;font-family:
+"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";color:#222222'>
+the Programmer loves romance, so this year he decided to illuminate his room
+with candles.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+class=SpellE><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>Vasily</span></span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'> has&nbsp;</span><i><span style='font-size:
+13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>a</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>candles.When</span> <span
+class=SpellE><span class=GramE>Vasily</span></span> lights up a new candle, it
+first burns for an hour and then it goes out. <span class=SpellE>Vasily</span>
+is smart, so he can make&nbsp;</span><span class=SpellE><i><span
+style='font-size:13.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>b</span></i><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>went</span></span><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'> out candles into a new candle. As a result, this new candle can
+be used like any other new candle.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Now <span class=SpellE><span class=GramE>Vasily</span></span>
+wonders: for how many hours can his candles light up the room if he acts
+optimally well? Help him find this number.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>The single line contains two integers,&nbsp;</span><span
+class=GramE><i><span style='font-size:13.0pt;mso-bidi-font-size:11.0pt;
+font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>a</span></i><span style='font-size:10.5pt;font-family:"Helvetica","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;and</span></span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;</span><i><span style='font-size:13.0pt;
+mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>b</span></i><span style='font-size:10.5pt;
+font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>&nbsp;</span><span style='font-size:13.0pt;mso-bidi-font-size:
+11.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>(1&#8201;&#8804;&#8201;<i>a</i>&#8201;&#8804;&#8201;1000;&nbsp;2&#8201;&#8804;&#8201;<i>b</i>&#8201;&#8804;&#8201;1000)</span><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Print a single integer &mdash; the number of hours <span
+class=SpellE><span class=GramE>Vasily</span></span> can light up the room for.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-family:"Helvetica","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#222222'>Examples<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>4 2<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>7<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><span class=GramE><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>input</span></b></span><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>6 3<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:14.5pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:#222222'>output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;line-height:15.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+background:#EFEFEF'><span style='font-size:9.5pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New";
+color:#880000'>8<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0in;background:white'><b><span
+style='font-size:12.0pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Note<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:.25in;line-height:16.8pt;background:white'><span
+style='font-size:10.5pt;font-family:"Helvetica","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#222222'>Consider the first sample. For the first four
+hours <span class=SpellE><span class=GramE>Vasily</span></span> lights up new
+candles, then he uses four burned out candles to make two new ones and lights
+them up. When these candles go out (stop burning), <span class=SpellE><span
+class=GramE>Vasily</span></span> can make another candle. Overall, <span
+class=SpellE><span class=GramE>Vasily</span></span> can light up the room for 7
+hours.<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>

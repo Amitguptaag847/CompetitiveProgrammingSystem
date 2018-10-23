@@ -1,0 +1,74 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+decides to observe a river for&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;consecutive
+days. The river's water level on each day is equal to some real
+value.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+goes to the riverside each day and makes a mark on the side of the
+channel at the height of the water level, but if it coincides with a
+mark made before, no new mark is created. The water does not wash the
+marks away. Amit writes down the number of marks strictly above the
+water level each day, on the&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+day this value is equal to&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Define&nbsp;<font size="3" style="font-size: 12pt"><i>d</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>&nbsp;as
+the number of marks strictly under the water level on the&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+day. You are to find out the minimum possible sum of&nbsp;<font size="3" style="font-size: 12pt"><i>d</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>&nbsp;over
+all days. There are no marks on the channel before the first day.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains a single positive integer&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font><font size="3" style="font-size: 12pt"> ≤ 10</font><sup><font size="2" style="font-size: 9pt">5</font></sup>)&nbsp;—
+the number of days.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+second line contains&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;space-separated
+integers&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font><sub><font size="2" style="font-size: 9pt"><i>1</i></font></sub><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>m</i></font><sub><font size="2" style="font-size: 9pt"><i>2</i></font></sub><font size="3" style="font-size: 12pt">, ..., </font><font size="3" style="font-size: 12pt"><i>m</i></font><sub><font size="2" style="font-size: 9pt"><i>n</i></font></sub>&nbsp;(<font size="3" style="font-size: 12pt">0 ≤ </font><font size="3" style="font-size: 12pt"><i>m</i></font><sub><font size="2" style="font-size: 9pt"><i>i</i></font></sub><font size="3" style="font-size: 12pt">&lt; </font><font size="3" style="font-size: 12pt"><i>i</i></font>)&nbsp;—
+the number of marks strictly above the water on each day.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Output
+one single integer&nbsp;— the minimum possible sum of the number of
+marks strictly below the water level among all days.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004864498706965297"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">6</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0 1 0 3 0 2</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id008722847084473926"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">6</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id008561383056364997"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0 1 2 1 2</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00038087136099762775"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id007094724871387836"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0 1 1 2 2</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id003943616337344178"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example, the following figure shows an optimal case.</span></font></font></font></p>
+<p align="center" style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font color="#222222"><img src="img/img3.png" name="Image1" align="bottom" width="529" height="172" border="0"/>
+</span></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Note
+that on day&nbsp;<font size="3" style="font-size: 12pt">3</font>, a
+new mark should be created because if not, there cannot be&nbsp;<font size="3" style="font-size: 12pt">3</font>&nbsp;marks
+above water on day&nbsp;<font size="3" style="font-size: 12pt">4</font>.
+The total number of marks underwater is&nbsp;<font size="3" style="font-size: 12pt">0 + 0 + 2 + 0 + 3 + 1 = 6</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example, the following figure shows an optimal case.</span></font></font></font></p>
+<p align="center" style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font color="#222222"><img src="img/img4.png" name="Image2" align="bottom" width="437" height="135" border="0"/>
+</span></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

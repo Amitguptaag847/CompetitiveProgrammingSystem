@@ -1,0 +1,295 @@
+
+<div id="Frame1" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame2" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame3" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame4" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame5" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame6" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame7" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame8" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame9" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame10" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame11" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame12" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame13" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame14" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame15" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame16" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame17" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame18" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame19" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame20" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame21" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame22" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame23" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame24" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame25" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame26" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; line-height: 0.56cm">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font color="#222222"><br/>
+The&nbsp;</font></font><font color="#4d87c7"><span style="text-decoration: none"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><span style="background: transparent"><a href="https://en.wikipedia.org/wiki/Breadth-first_search">BFS</span></font></span></font></a><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font color="#222222">&nbsp;algorithm
+is defined as follows.</span></font></font></p>
+<div id="pageContent" dir="ltr">
+	<ol>
+		<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; line-height: 0.56cm"><a name="MJXc-Node-1"></a><a name="MathJax-Element-1-Frame"></a><a name="MJXc-Node-3"></a><a name="MJXc-Node-2"></a><a name="MathJax-Element-2-Frame"></a><a name="MJXc-Node-6"></a><a name="MJXc-Node-4"></a><a name="MJXc-Node-5"></a><a name="MathJax-Element-3-Frame"></a><a name="MJXc-Node-7"></a><a name="MJXc-Node-8"></a><a name="MJXc-Node-9"></a><a name="MathJax-Element-4-Frame"></a><a name="MJXc-Node-10"></a><a name="MJXc-Node-11"></a><a name="MJXc-Node-12"></a><a name="MathJax-Element-5-Frame"></a><a name="MJXc-Node-15"></a><a name="MJXc-Node-14"></a><a name="MJXc-Node-13"></a>
+		<span style="display: inline-block; border: none; padding: 0cm"><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">Consider
+		an undirected graph with vertices numbered from&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">1</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">&nbsp;to&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">n</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">.
+		Initialize&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">q</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">&nbsp;as
+		a new&nbsp;</span></span></span></font></font></font></span><span style="font-variant: normal"><font color="#4d87c7"><span style="text-decoration: none"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent"><a href="http://gg.gg/queue_en">queue</span></span></span></span></font></font></span></font></span></a><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">&nbsp;containing
+		only vertex&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">1</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">,
+		mark the vertex&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">1</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">&nbsp;as
+		used.</span></span></span></span></font></font></font></span></p>
+		<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-6-Frame"></a><a name="MJXc-Node-16"></a><a name="MJXc-Node-17"></a><a name="MJXc-Node-18"></a><a name="MathJax-Element-7-Frame"></a><a name="MJXc-Node-21"></a><a name="MJXc-Node-20"></a><a name="MJXc-Node-19"></a>
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Extract
+		a vertex&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">v</font></font>&nbsp;from
+		the head of the queue&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">q</font></font>.</span></font></font></font></p>
+		<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-8-Frame"></a><a name="MJXc-Node-22"></a><a name="MJXc-Node-23"></a><a name="MJXc-Node-24"></a>
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+		the index of vertex&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">v</font></font>.</span></font></font></font></p>
+		<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-9-Frame"></a><a name="MJXc-Node-25"></a><a name="MJXc-Node-26"></a><a name="MJXc-Node-27"></a><a name="MathJax-Element-10-Frame"></a><a name="MJXc-Node-28"></a><a name="MJXc-Node-29"></a><a name="MJXc-Node-30"></a><a name="MJXc-Node-33"></a><a name="MJXc-Node-31"></a><a name="MathJax-Element-11-Frame"></a><a name="MJXc-Node-32"></a><a name="MJXc-Node-34"></a><a name="MJXc-Node-35"></a><a name="MJXc-Node-36"></a><a name="MathJax-Element-12-Frame"></a><a name="MathJax-Element-13-Frame"></a><a name="MJXc-Node-37"></a><a name="MJXc-Node-38"></a><a name="MJXc-Node-39"></a>
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Iterate
+		in arbitrary order through all such vertices&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">u</font></font>&nbsp;that&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">u</font></font>&nbsp;is
+		a neighbor of&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">v</font></font>&nbsp;and
+		is not marked yet as used. Mark the vertex&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">u</font></font>&nbsp;as
+		used and insert it into the tail of the queue&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">q</font></font>.</span></font></font></font></p>
+		<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">If
+		the queue is not empty, continue from step&nbsp;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">2</font></font>.</span></font></font></font></p>
+		<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Otherwise
+		finish.</span></font></font></font></p>
+	</ol>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Since
+	the order of choosing neighbors of each vertex can vary, it turns
+	out that there may be multiple sequences which&nbsp;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">BFS</font></font>&nbsp;can
+	print.</span></font></font></font></p>
+	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; line-height: 0.56cm"><a name="MJXc-Node-40"></a><a name="MJXc-Node-42"></a><a name="MJXc-Node-41"></a><a name="MathJax-Element-14-Frame"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">In
+	this problem you need to check whether a given sequence corresponds
+	to some valid&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="courier new, monospace"><font size="3" style="font-size: 11pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">BFS</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">&nbsp;traversal
+	of the given tree&nbsp;</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b><span style="font-variant: normal">starting
+	from vertex&nbsp;</b></span></span></font></font></font></span><font color="#222222"><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">1</span></span></span></font></font></font></span><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">.
+	The&nbsp;</span></span></span></font></font></font></span><span style="font-variant: normal"><font color="#4d87c7"><span style="text-decoration: none"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="background: transparent"><a href="http://gg.gg/tree_en">tree</span></span></span></span></font></font></span></font></span></a><font color="#222222"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal"><span style="font-variant: normal">&nbsp;is
+	an undirected graph, such that there is exactly one simple path
+	between any two vertices.</span></span></span></span></font></font></font></span></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-15-Frame"></a><a name="MJXc-Node-43"></a><a name="MJXc-Node-44"></a><a name="MJXc-Node-45"></a><a name="MJXc-Node-48"></a><a name="MJXc-Node-46"></a><a name="MathJax-Element-16-Frame"></a><a name="MJXc-Node-47"></a><a name="MJXc-Node-49"></a><a name="MJXc-Node-50"></a><a name="MJXc-Node-51"></a><a name="MJXc-Node-52"></a><a name="MJXc-Node-53"></a><a name="MJXc-Node-54"></a><a name="MJXc-Node-55"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+	first line contains a single integer&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">2</font></font><font size="4" style="font-size: 13pt">⋅</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">10</font></font><sup><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="2" style="font-size: 9pt">5</font></font></sup>)
+	which denotes the number of nodes in the tree.</span></font></font></font></p>
+	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-17-Frame"></a><a name="MJXc-Node-57"></a><a name="MJXc-Node-58"></a><a name="MJXc-Node-59"></a><a name="MJXc-Node-60"></a><a name="MJXc-Node-61"></a><a name="MJXc-Node-64"></a><a name="MJXc-Node-63"></a><a name="MathJax-Element-18-Frame"></a><a name="MJXc-Node-62"></a><a name="MJXc-Node-65"></a><a name="MJXc-Node-66"></a><a name="MJXc-Node-67"></a><a name="MathJax-Element-19-Frame"></a><a name="MathJax-Element-20-Frame"></a><a name="MJXc-Node-68"></a><a name="MJXc-Node-69"></a><a name="MJXc-Node-70"></a><a name="MJXc-Node-71"></a><a name="MJXc-Node-72"></a><a name="MJXc-Node-73"></a><a name="MJXc-Node-74"></a><a name="MJXc-Node-75"></a><a name="MJXc-Node-76"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+	following&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font><font size="4" style="font-size: 13pt">−</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font>&nbsp;lines
+	describe the edges of the tree. Each of them contains two
+	integers&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">x</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">y</font></font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">x</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">,</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">y</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>)&nbsp;—
+	the endpoints of the corresponding edge of the tree. It is
+	guaranteed that the given graph is a tree.</span></font></font></font></p>
+	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-21-Frame"></a><a name="MJXc-Node-77"></a><a name="MJXc-Node-78"></a><a name="MJXc-Node-79"></a><a name="MJXc-Node-83"></a><a name="MJXc-Node-80"></a><a name="MJXc-Node-82"></a><a name="MathJax-Element-22-Frame"></a><a name="MJXc-Node-81"></a><a name="MJXc-Node-84"></a><a name="MJXc-Node-85"></a><a name="MJXc-Node-86"></a><a name="MJXc-Node-87"></a><a name="MJXc-Node-88"></a><a name="MJXc-Node-89"></a><a name="MJXc-Node-90"></a><a name="MJXc-Node-91"></a><a name="MJXc-Node-92"></a><a name="MJXc-Node-93"></a><a name="MJXc-Node-94"></a><a name="MathJax-Element-23-Frame"></a><a name="MJXc-Node-95"></a><a name="MJXc-Node-96"></a><a name="MJXc-Node-97"></a><a name="MJXc-Node-98"></a><a name="MJXc-Node-100"></a><a name="MJXc-Node-99"></a><a name="MJXc-Node-101"></a><a name="MJXc-Node-102"></a><a name="MJXc-Node-103"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+	last line contains&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>&nbsp;distinct
+	integers&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="2" style="font-size: 9pt">1</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">,</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="2" style="font-size: 9pt">2</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">,</font></font><font size="4" style="font-size: 13pt">…</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">,</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="2" style="font-size: 9pt">n</font></font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="2" style="font-size: 9pt">i</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>)&nbsp;—
+	the sequence to check.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+	&quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">Yes</font></font>&quot;
+	(quotes for clarity) if the sequence corresponds to some
+	valid&nbsp;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">BFS</font></font>&nbsp;traversal
+	of the given tree and &quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">No</font></font>&quot;
+	(quotes for clarity) otherwise.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+	can print each letter in any case (upper or lower).</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+	<p style="margin-bottom: 0cm; line-height: 0.56cm"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font color="#222222"><span style="text-transform: lowercase"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></font></font></span></span></font></p>
+	<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id0015989606523721855"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1 2</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1 3</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">2 4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1 2 3 4</span></font></font></font></pre><p style="margin-bottom: 0cm; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font color="#222222"><span style="text-transform: lowercase"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></font></font></span></span></font></p>
+	<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id005529859500293204"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">Yes</span></font></font></font>
+</pre><p style="margin-bottom: 0cm; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font color="#222222"><span style="text-transform: lowercase"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></font></font></span></span></font></p>
+	<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id006798327879930608"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1 2</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1 3</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">2 4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1 2 4 3</span></font></font></font></pre><p style="margin-bottom: 0cm; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font color="#222222"><span style="text-transform: lowercase"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></font></font></span></span></font></p>
+	<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id009752365142233401"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">No</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Both
+	sample tests have the same tree in them.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+	this tree, there are two valid&nbsp;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">BFS</font></font>&nbsp;orderings:</span></font></font></font></p>
+	<ul>
+		<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MJXc-Node-104"></a><a name="MJXc-Node-106"></a><a name="MJXc-Node-105"></a><a name="MathJax-Element-24-Frame"></a><a name="MJXc-Node-107"></a><a name="MJXc-Node-108"></a><a name="MJXc-Node-109"></a><a name="MJXc-Node-110"></a><a name="MJXc-Node-111"></a><a name="MJXc-Node-112"></a>
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1,2,3,4</font></font>,</span></font></font></font></p>
+		<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MathJax-Element-25-Frame"></a><a name="MJXc-Node-115"></a><a name="MJXc-Node-113"></a><a name="MJXc-Node-114"></a><a name="MJXc-Node-116"></a><a name="MJXc-Node-117"></a><a name="MJXc-Node-118"></a><a name="MJXc-Node-119"></a><a name="MJXc-Node-120"></a><a name="MJXc-Node-121"></a>
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1,3,2,4</font></font>.</span></font></font></font></p>
+	</ul>
+	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm"><a name="MJXc-Node-122"></a><a name="MJXc-Node-124"></a><a name="MJXc-Node-123"></a><a name="MathJax-Element-26-Frame"></a><a name="MJXc-Node-125"></a><a name="MJXc-Node-126"></a><a name="MJXc-Node-127"></a><a name="MJXc-Node-128"></a><a name="MJXc-Node-129"></a><a name="MJXc-Node-130"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+	ordering&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1,2,4,3</font></font>&nbsp;doesn't
+	correspond to any valid&nbsp;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">BFS</font></font>&nbsp;order.</span></font></font></font></p>
+</div>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%">
+<br/>
+
+</p>
+<div id="footer" dir="ltr">
+	<p align="center" style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; orphans: 2; widows: 2">
+	<span style="display: inline-block; border-top: 1px solid #cccccc; border-bottom: none; border-left: none; border-right: none; padding-top: 0.05cm; padding-bottom: 0cm; padding-left: 0cm; padding-right: 0cm"><font face="verdana, arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#000000"><br/>
+</span></font></font></font><br/>
+
+	</p>
+</div>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+

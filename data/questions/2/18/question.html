@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)"/>
+	<meta name="created" content="2018-09-21T22:43:59.774335991"/>
+	<meta name="changed" content="2018-09-21T23:02:55.619435885"/>
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+		pre.cjk { font-family: "Courier New", monospace }
+	</style>
+</head>
+<body lang="en-IN" dir="ltr">
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Today,
+hedgehog Amit went to school for the very first time! Teacher gave
+him a homework which Amit was unable to complete without your help.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+is given an array of non-negative integers&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt">1</font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt">2</font><font size="3" style="font-size: 12pt">, ..., </font><font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt"><i>n</i></font>.
+First, he pick an integer&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>&nbsp;and
+then he adds&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>&nbsp;to
+some elements of the array (no more than once), subtract&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>&nbsp;from
+some other elements (also, no more than once) and do no change other
+elements. He wants all elements of the array to be equal.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Now
+he wonders if it's possible to pick such integer&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>&nbsp;and
+change some elements of the array using this&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>&nbsp;in
+order to make all elements equal.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line of the input contains an integer&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font><font size="3" style="font-size: 12pt"> ≤ 100 000</font>)&nbsp;—
+the number of integers in the Amit's array. The second line
+contains&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>integers&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt">1</font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt">2</font><font size="3" style="font-size: 12pt">, ..., </font><font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt"><i>n</i></font>&nbsp;(<font size="3" style="font-size: 12pt">0 ≤ </font><font size="3" style="font-size: 12pt"><i>a</i></font><font size="2" style="font-size: 9pt"><i>i</i></font><font size="3" style="font-size: 12pt"> ≤ 10</font><sup><font size="2" style="font-size: 9pt">9</font></sup>)&nbsp;—
+elements of the array.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">If
+it's impossible to make all elements of the array equal using the
+process given in the problem statement, then print &quot;<font size="3" style="font-size: 11pt">NO</font>&quot;
+(without quotes) in the only line of the output. Otherwise print
+&quot;<font size="3" style="font-size: 11pt">YES</font>&quot;
+(without quotes).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00018060689169433708"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1 3 3 2 1</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id008079296241152327"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">YES</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id007403098249978324"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1 2 3 4 5</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0031136505533394554"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">NO</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first sample Amit should select&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="3" style="font-size: 12pt"> = 1</font>,
+then add it to the first and the last elements of the array and
+subtract from the second and the third elements.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; orphans: 2; widows: 2">
+<br/>
+
+</p>
+</body>
+</html>

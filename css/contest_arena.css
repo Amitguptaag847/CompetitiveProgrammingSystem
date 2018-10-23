@@ -1,0 +1,44 @@
+body{
+  background-color: #e8e8e8;
+}
+
+.fest_title{
+  background: #2358a8;
+  color:white;
+}
+
+.fest_title h1{
+  padding: 0;
+  margin: 0;
+}
+
+.navigation{
+  background: #928FBD;
+  color:#fff;
+}
+
+.question_title{
+  background: #7a6868;
+  color: #fff;
+}
+
+.que_number:hover,.active,.quit:hover{
+  cursor: pointer;
+  background: #252a29;
+}
+
+.container{
+  background: #fff;
+}
+
+#code_area{
+  height: 400px;
+  overflow-y: auto;
+  resize: none;
+}
+
+#output,#input{
+  height: 75px;
+  overflow-y: auto;
+  resize: none;
+}

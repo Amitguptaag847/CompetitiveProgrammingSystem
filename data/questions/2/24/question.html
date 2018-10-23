@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)"/>
+	<meta name="created" content="2018-09-23T21:32:32.206033482"/>
+	<meta name="changed" content="2018-09-26T20:27:16.662148823"/>
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+		pre.cjk { font-family: "Courier New", monospace }
+	</style>
+</head>
+<body lang="en-IN" dir="ltr">
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><br/>
+Arpan
+and Amit decided to play a little. They found&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;red
+cubes and&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;blue
+cubes. The game goes like that: the players take turns to choose a
+cube of some color (red or blue) and put it in a line from left to
+right (overall the line will have&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font> <font size="3" style="font-size: 12pt">+ </font><font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;cubes).
+Arpan moves first. Arpan's task is to get as many pairs of
+neighbouring cubes of the same color as possible. Amit's task is to
+get as many pairs of neighbouring cubes of different colors as
+possible.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+number of Arpan's points in the game is the number of pairs of
+neighboring cubes of the same color in the line, the number of Amit's
+points in the game is the number of neighbouring cubes of the
+different color in the line. Your task is to calculate the score at
+the end of the game (Arpan's and Amit's points, correspondingly), if
+both boys are playing optimally well. To &quot;play optimally well&quot;
+first of all means to maximize the number of one's points, and second
+— to minimize the number of the opponent's points.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+only line contains two space-separated
+integers&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;<font size="3" style="font-size: 12pt">(1 ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>m</i></font> ≤ <font size="3" style="font-size: 12pt">10</font><sup><font size="2" style="font-size: 9pt">5</font></sup><font size="3" style="font-size: 12pt">)</font>&nbsp;—
+the number of red and blue cubes, correspondingly.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">On
+a single line print two space-separated integers — the number of
+Arpan's and Amit's points correspondingly provided that both players
+play optimally well.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id002400469595548982"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3 1</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006296809429215253"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 1</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0044690286176113925"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 4</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004609554672441565"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3 2</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first test sample the optimal strategy for Arpan is to put the
+blue cube in the line. After that there will be only red cubes left,
+so by the end of the game the line of cubes from left to right will
+look as&nbsp;<font size="2" style="font-size: 11pt">[blue, red, red,
+red]</font>. So, Arpan gets 2 points and Amit gets 1 point.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">If
+Arpan would choose the red cube during his first move, then, provided
+that both boys play optimally well, Arpan would get 1 point and Amit
+would get 2 points.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+</body>
+</html>

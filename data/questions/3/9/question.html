@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.6.2 (Linux)"/>
+	<meta name="created" content="2018-09-26T22:54:59.647787039"/>
+	<meta name="changed" content="2018-09-26T22:56:01.189770936"/>
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+		pre.cjk { font-family: "Courier New", monospace }
+	</style>
+</head>
+<body lang="en-IN" dir="ltr">
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+is decorating the Christmas tree. He has got three garlands, and all
+of them will be put on the tree. After that Amit will switch these
+garlands on.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">When
+a garland is switched on, it periodically changes its state —
+sometimes it is lit, sometimes not. Formally, if&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+garland is switched on during&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>-th
+second, then it is lit only during
+seconds&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>,&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="3" style="font-size: 12pt"> + </font><font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>,&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="3" style="font-size: 12pt"> + 2</font><font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>,&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="3" style="font-size: 12pt"> + 3</font><font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>&nbsp;and
+so on.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+wants to switch on the garlands in such a way that during each second
+after switching the garlands on there would be at least one lit
+garland. Formally, Amit wants to choose three
+integers&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">1</font>,&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">2</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">3</font>&nbsp;(not
+necessarily distinct) so that he will switch on the first garland
+during&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">1</font>-th
+second, the second one — during&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">2</font>-th
+second, and the third one — during&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">3</font>-th
+second, respectively, and during each second starting
+from&nbsp;<font size="3" style="font-size: 12pt"><i>max</i></font><font size="3" style="font-size: 12pt">(</font><font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">1</font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">2</font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">3</font><font size="3" style="font-size: 12pt">)</font>&nbsp;at
+least one garland will be lit.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Help
+Amit by telling him if it is possible to do this!</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains three integers&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt">1</font>,&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt">2</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt">3</font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>k</i></font><font size="2" style="font-size: 9pt"><i>i</i></font><font size="3" style="font-size: 12pt"> ≤ 1500</font>)
+— time intervals of the garlands.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">If
+Amit can choose moments of time to switch on the garlands in such a
+way that each second after switching the garlands on at least one
+garland will be lit, print&nbsp;<font size="3" style="font-size: 11pt">YES</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Otherwise,
+print&nbsp;<font size="3" style="font-size: 11pt">NO</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id002448478048246987"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 2 3</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006087437591556102"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">YES</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009465541182590715"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">4 2 3</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id007177526165031212"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">NO</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example Amit can choose&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">1</font><font size="3" style="font-size: 12pt"> = 1</font>,&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">2</font><font size="3" style="font-size: 12pt"> = 2</font>,&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">3</font><font size="3" style="font-size: 12pt"> = 1</font>.
+The first garland will be lit during seconds&nbsp;<font size="3" style="font-size: 12pt">1, 3, 5, 7, ...</font>,
+the second —&nbsp;<font size="3" style="font-size: 12pt">2, 4, 6, 8, ...</font>,
+which already cover all the seconds after the&nbsp;<font size="3" style="font-size: 12pt">2</font>-nd
+one. It doesn't even matter what&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font><font size="2" style="font-size: 9pt">3</font>&nbsp;is
+chosen. Our choice will lead third to be lit during
+seconds&nbsp;<font size="3" style="font-size: 12pt">1, 4, 7, 10, ...</font>,
+though.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example there is no way to choose such moments of time,
+there always be some seconds when no garland is lit.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+</body>
+</html>

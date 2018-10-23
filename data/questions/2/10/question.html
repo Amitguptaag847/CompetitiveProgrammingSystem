@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)"/>
+	<meta name="created" content="2018-09-20T21:42:28.278567050"/>
+	<meta name="changed" content="2018-09-26T16:50:31.253255709"/>
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+		pre.cjk { font-family: "Courier New", monospace }
+		a:link { so-language: zxx }
+	</style>
+</head>
+<body lang="en-IN" dir="ltr">
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><i>Unlucky</i>&nbsp;year
+in Aryanagar is such a year that its number&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;can
+be represented as&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font> <font size="3" style="font-size: 12pt">= </font><font size="3" style="font-size: 12pt"><i>x</i></font><sup><font size="2" style="font-size: 9pt"><i>a</i></font></sup><sup> </sup><font size="3" style="font-size: 12pt">+ </font><font size="3" style="font-size: 12pt"><i>y</i></font><sup><font size="2" style="font-size: 9pt"><i>b</i></font></sup>,
+where&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>b</i></font>&nbsp;are
+non-negative integer numbers.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">For
+example, if&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font> <font size="3" style="font-size: 12pt">= 2</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>y</i></font> <font size="3" style="font-size: 12pt">= 3</font>&nbsp;then
+the years&nbsp;<font size="2" style="font-size: 11pt">4</font>&nbsp;and&nbsp;<font size="2" style="font-size: 11pt">17</font>&nbsp;are&nbsp;<i>unlucky</i>&nbsp;(<font size="3" style="font-size: 12pt">4 = 2</font><sup><font size="2" style="font-size: 9pt">0</font></sup> <font size="3" style="font-size: 12pt">+ 3</font><sup><font size="2" style="font-size: 9pt">1</font></sup>,&nbsp;<font size="3" style="font-size: 12pt">17 = 2</font><sup><font size="2" style="font-size: 9pt">3</font></sup> <font size="3" style="font-size: 12pt">+ 3</font><sup><font size="2" style="font-size: 9pt">2</font></sup> <font size="3" style="font-size: 12pt">= 2</font><sup><font size="2" style="font-size: 9pt">4</font></sup> <font size="3" style="font-size: 12pt">+ 3</font><sup><font size="2" style="font-size: 9pt">0</font></sup>)
+and year&nbsp;<font size="2" style="font-size: 11pt">18</font>&nbsp;isn't&nbsp;<i>unlucky</i>&nbsp;as
+there is no such representation for it.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Such
+interval of years that there are no&nbsp;<i>unlucky</i>&nbsp;years in
+it is called&nbsp;<i>The Golden Age</i>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+should write a program which will find maximum length of&nbsp;<i>The
+Golden Age</i>&nbsp;which starts no earlier than the year&nbsp;<font size="3" style="font-size: 12pt"><i>l</i></font>&nbsp;and
+ends no later than the year&nbsp;<font size="3" style="font-size: 12pt"><i>r</i></font>.
+If all years in the interval&nbsp;<font size="3" style="font-size: 12pt">[</font><font size="3" style="font-size: 12pt"><i>l</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>r</i></font><font size="3" style="font-size: 12pt">]</font>&nbsp;are&nbsp;<i>unlucky</i>&nbsp;then
+the answer is&nbsp;<font size="2" style="font-size: 11pt">0</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains four integer
+numbers&nbsp;<font size="3" style="font-size: 12pt"><i>x</i></font>,&nbsp;<font size="3" style="font-size: 12pt"><i>y</i></font>,&nbsp;<font size="3" style="font-size: 12pt"><i>l</i></font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>r</i></font>&nbsp;(<font size="3" style="font-size: 12pt">2 ≤ </font><font size="3" style="font-size: 12pt"><i>x</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>y</i></font> ≤ <font size="3" style="font-size: 12pt">10</font><sup><font size="2" style="font-size: 9pt">18</font></sup>,&nbsp;<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>l</i></font> ≤ <font size="3" style="font-size: 12pt"><i>r</i></font> ≤ <font size="3" style="font-size: 12pt">10</font><sup><font size="2" style="font-size: 9pt">18</font></sup>).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+the maximum length of&nbsp;<i>The Golden Age</i>&nbsp;within the
+interval&nbsp;<font size="3" style="font-size: 12pt">[</font><font size="3" style="font-size: 12pt"><i>l</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>r</i></font><font size="3" style="font-size: 12pt">]</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">If
+all years in the interval&nbsp;<font size="3" style="font-size: 12pt">[</font><font size="3" style="font-size: 12pt"><i>l</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>r</i></font><font size="3" style="font-size: 12pt">]</font>&nbsp;are&nbsp;<i>unlucky</i>&nbsp;then
+print&nbsp;<font size="2" style="font-size: 11pt">0</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00548872273378423"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 3 1 10</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006060704380906579"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0023142746116049873"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3 5 10 22</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0016688116572707945"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">8</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id002227765689982142"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 3 3 5</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004505461246220306"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example the&nbsp;<i>unlucky</i>&nbsp;years are&nbsp;<font size="2" style="font-size: 11pt">2,
+3, 4, 5, 7, 9</font>&nbsp;and&nbsp;<font size="2" style="font-size: 11pt">10</font>.
+So maximum length of&nbsp;<i>The Golden Age</i>&nbsp;is achived in
+the intervals&nbsp;<font size="3" style="font-size: 12pt">[1, 1]</font>,&nbsp;<font size="3" style="font-size: 12pt">[6, 6]</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt">[8, 8]</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example the longest&nbsp;<i>Golden Age</i>&nbsp;is the
+interval&nbsp;<font size="3" style="font-size: 12pt">[15, 22]</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+</body>
+</html>

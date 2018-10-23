@@ -1,0 +1,91 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Sachin
+is mad about coding, that is why he writes Amit encoded messages. He
+calls the&nbsp;<i>median letter</i>&nbsp;in a word the letter which
+is in the middle of the word. If the word's length is even, the
+median letter is the left of the two middle letters. In the following
+examples, the median letter is highlighted:&nbsp;<font size="3" style="font-size: 11pt">con</font><font size="3" style="font-size: 11pt"><u><b>t</b></u></font><font size="3" style="font-size: 11pt">est</font>,&nbsp;<font size="3" style="font-size: 11pt">i</font><font size="3" style="font-size: 11pt"><u><b>n</b></u></font><font size="3" style="font-size: 11pt">fo</font>.
+If the word consists of single letter, then according to above
+definition this letter is the median letter.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Sachin
+encodes each word in the following way: he writes down the median
+letter of the word, then deletes it and repeats the process until
+there are no letters left. For example, he encodes the
+word&nbsp;<font size="3" style="font-size: 11pt">volga</font>&nbsp;as&nbsp;<font size="3" style="font-size: 11pt">logva</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+are given an encoding&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;of
+some word, your task is to decode it.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains a positive integer&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font><font size="3" style="font-size: 12pt"> ≤ 2000</font>)&nbsp;—
+the length of the encoded word.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+second line contains the string&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;of
+length&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;consisting
+of lowercase English letters&nbsp;— the encoding.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+the word that Sachin encoded.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00061872009601495526"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">logva</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004636822202889228"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">volga</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006407870608019093"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">no</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id003851322113592457"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">no</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00008490933716984284"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">abba</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004491836853257156"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">baba</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example Sachin encoded the word&nbsp;<font size="3" style="font-size: 11pt">volga</font>.
+At first, he wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">l</font>&nbsp;from
+the position&nbsp;<font size="3" style="font-size: 12pt">3</font>,
+after that his word looked like&nbsp;<font size="3" style="font-size: 11pt">voga</font>.
+After that Sachin wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">o</font>&nbsp;from
+the position&nbsp;<font size="3" style="font-size: 12pt">2</font>,
+his word became&nbsp;<font size="3" style="font-size: 11pt">vga</font>.
+Then Sachin wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">g</font>which
+was at the second position, the word became&nbsp;<font size="3" style="font-size: 11pt">va</font>.
+Then he wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">v</font>,
+then the letter&nbsp;<font size="3" style="font-size: 11pt">a</font>.
+Thus, the encoding looked like&nbsp;<font size="3" style="font-size: 11pt">logva</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example Sachin encoded the word&nbsp;<font size="3" style="font-size: 11pt">no</font>.
+He wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">n</font>,
+the word became&nbsp;<font size="3" style="font-size: 11pt">o</font>,
+and he wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">o</font>.
+Thus, in this example, the word and its encoding are the same.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the third example Sachin encoded the word&nbsp;<font size="3" style="font-size: 11pt">baba</font>.
+At first, he wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">a</font>,
+which was at the position&nbsp;<font size="3" style="font-size: 12pt">2</font>,
+after that the word looked like&nbsp;<font size="3" style="font-size: 11pt">bba</font>.
+Then he wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">b</font>,
+which was at the position&nbsp;<font size="3" style="font-size: 12pt">2</font>,
+his word looked like&nbsp;<font size="3" style="font-size: 11pt">ba</font>.
+After that he wrote down the letter&nbsp;<font size="3" style="font-size: 11pt">b</font>,
+which was at the position&nbsp;<font size="3" style="font-size: 12pt">1</font>,
+the word looked like&nbsp;<font size="3" style="font-size: 11pt">a</font>,
+and he wrote down that letter&nbsp;<font size="3" style="font-size: 11pt">a</font>.
+Thus, the encoding is&nbsp;<font size="3" style="font-size: 11pt">abba</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

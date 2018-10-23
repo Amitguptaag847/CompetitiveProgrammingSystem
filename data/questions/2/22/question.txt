@@ -1,0 +1,81 @@
+<div id="pageContent" dir="ltr">
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="font-variant: normal"><font size="2" style="font-size: 10pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">Sahil,
+	a system administrator is in trouble again. As a result of an error
+	in some script, a list of names of very important files has been
+	damaged. Since they were files in the BerFS file system, it is known
+	that each file name has a form &quot;name.ext&quot;, where:</span></span></span></font></span></span></font></font></p>
+	<ul>
+		<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><font size="2" style="font-size: 11pt">name</font>&nbsp;is
+		a string consisting of lowercase Latin letters, its length is from
+		1 to 8 characters;</span></font></font></font></p>
+		<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+		<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><font size="2" style="font-size: 11pt">ext</font>&nbsp;is
+		a string consisting of lowercase Latin letters, its length is from
+		1 to 3 characters.</span></font></font></font></p>
+	</ul>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">For
+	example, &quot;<font size="2" style="font-size: 11pt">read.me</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">example.txt</font>&quot;
+	and &quot;<font size="2" style="font-size: 11pt">b.cpp</font>&quot;
+	are valid file names and &quot;<font size="2" style="font-size: 11pt">version.info</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">ntldr</font>&quot; and
+	&quot;<font size="2" style="font-size: 11pt">contestdata.zip</font>&quot;
+	are not.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Damage
+	to the list meant that all the file names were recorded one after
+	another, without any separators. So now Sahil has a single string.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Sahil
+	needs to set everything right as soon as possible. He should divide
+	the resulting string into parts so that each part would be a valid
+	file name in BerFS. Since Sahil has already proved that he is not
+	good at programming, help him. The resulting file list can contain
+	the same file names.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+	input data consists of a single string&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>,
+	its length is from&nbsp;<font size="3" style="font-size: 12pt">1</font>&nbsp;to&nbsp;<font size="3" style="font-size: 12pt">4·10</font><sup><font size="2" style="font-size: 9pt">5</font></sup><sup>&nbsp;</sup>characters.
+	The string can contain only lowercase Latin letters ('<font size="2" style="font-size: 11pt">a</font>'
+	- '<font size="2" style="font-size: 11pt">z</font>') and periods
+	('<font size="2" style="font-size: 11pt">.</font>').</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+	the first line print &quot;<font size="2" style="font-size: 11pt">YES</font>&quot;
+	(without the quotes), if it is possible to divide&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;into
+	parts as required. In this case, the following lines should contain
+	the parts of the required partition, one per line in the order in
+	which they appear in&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>.
+	The required partition can contain the same file names. If there are
+	multiple solutions, print any of them.</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">If
+	the solution does not exist, then print in a single line &quot;<font size="2" style="font-size: 11pt">NO</font>&quot;
+	(without the quotes).</span></font></font></font></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+	<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">input</span></b></font></font></font></p>
+	<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id0015686389176374238"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">read.meexample.txtb.cpp</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">output</span></b></font></font></font></p>
+	<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id0002581507299028618"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">YES</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">read.m</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">eexample.t</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">xtb.cpp</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">input</span></b></font></font></font></p>
+	<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id002677935635532911"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">version.infontldrcontestdata.zip</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 0.56cm">
+	<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">output</span></b></font></font></font></p>
+	<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 0.56cm; background: #efefef"><a name="id0007497950698047884"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">NO</span></font></font></font></pre>
+</div>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

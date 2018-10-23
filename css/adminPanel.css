@@ -1,0 +1,18 @@
+body{
+  background-color: #e8e8e8;
+}
+
+.fest_title{
+  background: #2358a8;
+  color:white;
+}
+
+.fest_title h1{
+  padding: 0;
+  margin: 0;
+}
+
+.logout:hover{
+  cursor: pointer;
+  background: #252a29;
+}

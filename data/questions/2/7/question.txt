@@ -1,0 +1,51 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+wants to buy an apartment in a new house at New Avenue of Metropolis.
+The house has&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;apartments
+that are numbered from&nbsp;<font size="3" style="font-size: 12pt">1</font>&nbsp;to&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;and
+are arranged in a row. Two apartments are adjacent if their indices
+differ by&nbsp;<font size="3" style="font-size: 12pt">1</font>. Some
+of the apartments can already be inhabited, others are available for
+sale.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+often visits his neighbors, so apartment is&nbsp;<i>good</i>&nbsp;for
+him if it is available for sale and there is at least one already
+inhabited apartment adjacent to it. Amit knows that there are
+exactly&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font>&nbsp;already
+inhabited apartments, but he doesn't know their indices yet.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Find
+out what could be the minimum possible and the Amitum possible number
+of apartments that are good for Amit.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+only line of the input contains two
+integers:&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>k</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font><font size="3" style="font-size: 12pt"> ≤ 10</font><sup><font size="2" style="font-size: 9pt">9</font></sup>,&nbsp;<font size="3" style="font-size: 12pt">0 ≤ </font><font size="3" style="font-size: 12pt"><i>k</i></font><font size="3" style="font-size: 12pt"> ≤ </font><font size="3" style="font-size: 12pt"><i>n</i></font>).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+the minimum possible and the maximum possible number of apartments
+good for Amit.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Example</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006152133190411195"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">6 3</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id007563203329423807"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1 3</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the sample test, the number of good apartments could be minimum
+possible if, for example, apartments with indices&nbsp;<font size="3" style="font-size: 12pt">1</font>,&nbsp;<font size="3" style="font-size: 12pt">2</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt">3</font>&nbsp;were
+inhabited. In this case only apartment&nbsp;<font size="3" style="font-size: 12pt">4</font>&nbsp;is
+good. The Amitum possible number could be, for example, if apartments
+with indices&nbsp;<font size="3" style="font-size: 12pt">1</font>,&nbsp;<font size="3" style="font-size: 12pt">3</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt">5</font>&nbsp;were
+inhabited. In this case all other apartments:&nbsp;<font size="3" style="font-size: 12pt">2</font>,&nbsp;<font size="3" style="font-size: 12pt">4</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt">6</font>&nbsp;are
+good.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

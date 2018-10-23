@@ -1,0 +1,173 @@
+<div id="Frame1" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame2" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame3" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame4" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame5" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame6" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame7" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame8" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame9" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame10" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame11" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame12" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame13" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame14" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame15" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame16" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-1"></a><a name="MathJax-Element-1-Frame"></a><a name="MJXc-Node-3"></a><a name="MJXc-Node-2"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">There
+are&nbsp;<font size="4" style="font-size: 13pt">n</font>&nbsp;slimes
+in a row. Each slime has an integer value (possibly negative or zero)
+associated with it.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Any
+slime can eat its adjacent slime (the closest slime to its left or to
+its right, assuming that this slime exists).</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-2-Frame"></a><a name="MJXc-Node-6"></a><a name="MJXc-Node-4"></a><a name="MJXc-Node-5"></a><a name="MathJax-Element-3-Frame"></a><a name="MJXc-Node-7"></a><a name="MJXc-Node-8"></a><a name="MJXc-Node-9"></a><a name="MathJax-Element-4-Frame"></a><a name="MJXc-Node-10"></a><a name="MJXc-Node-11"></a><a name="MJXc-Node-12"></a><a name="MJXc-Node-13"></a><a name="MJXc-Node-14"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">When
+a slime with a value&nbsp;<font size="4" style="font-size: 13pt">x</font>&nbsp;eats
+a slime with a value&nbsp;<font size="4" style="font-size: 13pt">y</font>,
+the eaten slime disappears, and the value of the remaining slime
+changes to&nbsp;<font size="4" style="font-size: 13pt">x−y</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+slimes will eat each other until there is only one slime left.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Find
+the maximum possible value of the last slime.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-5-Frame"></a><a name="MJXc-Node-15"></a><a name="MJXc-Node-16"></a><a name="MJXc-Node-17"></a><a name="MathJax-Element-6-Frame"></a><a name="MJXc-Node-18"></a><a name="MJXc-Node-19"></a><a name="MJXc-Node-20"></a><a name="MJXc-Node-21"></a><a name="MJXc-Node-22"></a><a name="MJXc-Node-23"></a><a name="MJXc-Node-24"></a><a name="MJXc-Node-25"></a><a name="MJXc-Node-26"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line of the input contains an integer&nbsp;<font size="4" style="font-size: 13pt">n</font>&nbsp;(<font size="4" style="font-size: 13pt">1≤n≤500000</font>)
+denoting the number of slimes.</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-7-Frame"></a><a name="MJXc-Node-27"></a><a name="MJXc-Node-28"></a><a name="MJXc-Node-29"></a><a name="MJXc-Node-31"></a><a name="MJXc-Node-33"></a><a name="MJXc-Node-32"></a><a name="MJXc-Node-30"></a><a name="MathJax-Element-8-Frame"></a><a name="MJXc-Node-34"></a><a name="MathJax-Element-9-Frame"></a><a name="MJXc-Node-35"></a><a name="MJXc-Node-36"></a><a name="MJXc-Node-37"></a><a name="MJXc-Node-38"></a><a name="MJXc-Node-39"></a><a name="MJXc-Node-41"></a><a name="MJXc-Node-43"></a><a name="MJXc-Node-42"></a><a name="MJXc-Node-44"></a><a name="MJXc-Node-45"></a><a name="MJXc-Node-46"></a><a name="MJXc-Node-47"></a><a name="MJXc-Node-52"></a><a name="MJXc-Node-51"></a><a name="MJXc-Node-50"></a><a name="MJXc-Node-49"></a><a name="MathJax-Element-10-Frame"></a><a name="MJXc-Node-53"></a><a name="MathJax-Element-11-Frame"></a><a name="MJXc-Node-54"></a><a name="MJXc-Node-55"></a><a name="MJXc-Node-56"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+next line contains&nbsp;<font size="4" style="font-size: 13pt">n</font>&nbsp;integers&nbsp;<font size="4" style="font-size: 13pt">a</font><font size="2" style="font-size: 9pt">i</font>&nbsp;(−<font size="4" style="font-size: 13pt">10</font><sup><font size="2" style="font-size: 9pt">9</font></sup><font size="4" style="font-size: 13pt">≤a</font><font size="2" style="font-size: 9pt">i</font><font size="4" style="font-size: 13pt">≤10</font><sup><font size="2" style="font-size: 9pt">9</font></sup>),
+where&nbsp;<font size="4" style="font-size: 13pt">a</font><font size="2" style="font-size: 9pt">i</font>&nbsp;is
+the value of&nbsp;<font size="4" style="font-size: 13pt">i</font>-th
+slime.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+an only integer&nbsp;— the maximum possible value of the last
+slime.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; orphans: 2; widows: 2"><span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id005017795852609828"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 1 2 1</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0010833290856575806"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>input</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00920155391793027"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0 -1 -1 -1 -1</span></font></font></font></pre><p style="margin-bottom: 0cm; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><font color="#222222"><span style="text-transform: lowercase"><span style="letter-spacing: normal"><span style="font-style: normal"><b>output</b></span></span></span></span></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009924862225189501"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-59"></a><a name="MJXc-Node-58"></a><a name="MathJax-Element-12-Frame"></a><a name="MJXc-Node-57"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example, a possible way of getting the last slime with
+value&nbsp;<font size="4" style="font-size: 13pt">4</font>&nbsp;is:</span></font></font></font></p>
+<ul>
+	<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-13-Frame"></a><a name="MJXc-Node-60"></a><a name="MJXc-Node-61"></a><a name="MJXc-Node-62"></a><a name="MJXc-Node-63"></a><a name="MJXc-Node-64"></a><a name="MJXc-Node-65"></a><a name="MJXc-Node-66"></a><a name="MJXc-Node-67"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Second
+	slime eats the third slime, the row now contains slimes&nbsp;<font size="4" style="font-size: 13pt">2,−1,1</font></span></font></font></font></p>
+	<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-69"></a><a name="MJXc-Node-70"></a><a name="MJXc-Node-68"></a><a name="MathJax-Element-14-Frame"></a><a name="MJXc-Node-71"></a><a name="MJXc-Node-72"></a><a name="MJXc-Node-73"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Second
+	slime eats the third slime, the row now contains slimes&nbsp;<font size="4" style="font-size: 13pt">2,−2</font></span></font></font></font></p>
+	<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-15-Frame"></a><a name="MJXc-Node-74"></a><a name="MJXc-Node-75"></a><a name="MJXc-Node-76"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">First
+	slime eats the second slime, the row now contains&nbsp;<font size="4" style="font-size: 13pt">4</font></span></font></font></font></p>
+</ul>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-16-Frame"></a><a name="MJXc-Node-77"></a><a name="MJXc-Node-78"></a><a name="MJXc-Node-79"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example, the first slime can keep eating slimes to its
+right to end up with a value of&nbsp;<font size="4" style="font-size: 13pt">4</font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>

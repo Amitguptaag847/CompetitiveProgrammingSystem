@@ -1,0 +1,89 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Amit
+exited from a store and now he wants to recheck the total price of
+all purchases in his bill. The bill is a string in which the names of
+the purchases and their prices are printed in a row without any
+spaces. Check has the format &quot;<font size="4" style="font-size: 14pt"><i>name</i></font><sub>1</sub><font size="4" style="font-size: 14pt"><i>price</i></font><sub>1</sub><font size="4" style="font-size: 14pt"><i>name</i></font><sub>2</sub><font size="4" style="font-size: 14pt"><i>price</i></font><sub><font size="4" style="font-size: 14pt"><i>2</i></font></sub><font size="4" style="font-size: 14pt">...</font><font size="4" style="font-size: 14pt"><i>name</i></font><sub><i>n</i></sub><font size="4" style="font-size: 14pt"><i>price</i></font><sub><i>n</i></sub>&quot;,
+where&nbsp;<font size="3" style="font-size: 12pt"><i>name</i></font><sub><font size="2" style="font-size: 9pt"><i>i</i></font></sub>&nbsp;(name
+of the&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+purchase) is a non-empty string of length not more than&nbsp;<font size="3" style="font-size: 12pt">10</font>,
+consisting of lowercase English letters, and&nbsp;<font size="3" style="font-size: 12pt"><i>price</i></font><sub><font size="2" style="font-size: 9pt"><i>i</i></font></sub>&nbsp;(the
+price of the&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+purchase) is a non-empty string, consisting of digits and dots
+(decimal points). It is possible that purchases with equal names have
+different prices.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+price of each purchase is written in the following format. If the
+price is an integer number of dollars then cents are not written.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Otherwise,
+after the number of dollars a dot (decimal point) is written followed
+by cents&nbsp;<b>in a two-digit format</b>&nbsp;(if number of cents
+is between&nbsp;<font size="3" style="font-size: 12pt">1</font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt">9</font>&nbsp;inclusively,
+there is a leading zero).</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Also,
+every three digits (from less significant to the most) in dollars are
+separated by dot (decimal point). No extra leading zeroes are
+allowed. The price always starts with a digit and ends with a digit.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">For
+example:</span></font></font></font></p>
+<ul>
+	<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">&quot;<font size="2" style="font-size: 11pt">234</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">1.544</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">149.431.10</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">0.99</font>&quot; and
+	&quot;<font size="2" style="font-size: 11pt">123.05</font>&quot; are
+	valid prices,</span></font></font></font></p>
+	<li/>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">&quot;<font size="2" style="font-size: 11pt">.333</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">3.33.11</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">12.00</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">.33</font>&quot;,
+	&quot;<font size="2" style="font-size: 11pt">0.1234</font>&quot; and
+	&quot;<font size="2" style="font-size: 11pt">1.2</font>&quot; are
+	not valid.</span></font></font></font></p>
+</ul>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Write
+a program that will find the total price of all purchases in the
+given bill.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+only line of the input contains a non-empty string&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;with
+length not greater than&nbsp;<font size="3" style="font-size: 12pt">1000</font>&nbsp;—
+the content of the bill.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">It
+is guaranteed that the bill meets the format described above. It is
+guaranteed that each price in the bill is not less than one cent and
+not greater than&nbsp;<font size="3" style="font-size: 12pt">10</font><sup><font size="2" style="font-size: 9pt">6</font></sup><sup>&nbsp;</sup>dollars.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+the total price&nbsp;<b>exactly in the same format</b>&nbsp;as prices
+given in the input.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id007848438904998156"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">chipsy48.32televizor12.390</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0059739707391675"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">12.438.32</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004407253145368779"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">a1b2c3.38</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id003300469688066998"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">6.38</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id008794558690517404"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">aa0.01t0.03</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0025466990161484815"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">0.04</span></font></font></font></pre><p style="margin-bottom: 0cm; line-height: 100%">
+<br/>

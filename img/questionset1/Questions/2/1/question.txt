@@ -1,0 +1,381 @@
+
+<div id="Frame1" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame2" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame3" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame4" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame5" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame6" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame7" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame8" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame9" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame10" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame11" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame12" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame13" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame14" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame15" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame16" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame17" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame18" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame19" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame20" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame21" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame22" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame23" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame24" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame25" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame26" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame27" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame28" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame29" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame30" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame31" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame32" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame33" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame34" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame35" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame36" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame37" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame38" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame39" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame40" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame41" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame42" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame43" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame44" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame45" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<div id="Frame46" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 0.04cm; height: 0.04cm; border: none; padding: 0cm; background: #ffffff">
+	<p><br/>
+<br/>
+
+	</p>
+</div>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-1"></a><a name="MathJax-Element-1-Frame"></a><a name="MJXc-Node-3"></a><a name="MJXc-Node-2"></a><a name="MathJax-Element-2-Frame"></a><a name="MJXc-Node-6"></a><a name="MJXc-Node-4"></a><a name="MJXc-Node-5"></a><a name="MJXc-Node-7"></a><a name="MJXc-Node-8"></a><a name="MJXc-Node-9"></a><a name="MathJax-Element-3-Frame"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><br/>
+You
+are given two binary strings&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>&nbsp;of
+the same length. You can perform the following two operations on the
+string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>:</span></font></font></font></p>
+<ul>
+	<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-4-Frame"></a><a name="MJXc-Node-10"></a><a name="MJXc-Node-11"></a><a name="MJXc-Node-12"></a><a name="MathJax-Element-5-Frame"></a><a name="MJXc-Node-13"></a><a name="MJXc-Node-14"></a><a name="MJXc-Node-15"></a><a name="MathJax-Element-6-Frame"></a><a name="MJXc-Node-18"></a><a name="MJXc-Node-17"></a><a name="MJXc-Node-16"></a><a name="MJXc-Node-19"></a><a name="MJXc-Node-20"></a><a name="MJXc-Node-21"></a><a name="MJXc-Node-22"></a><a name="MJXc-Node-23"></a><a name="MJXc-Node-24"></a><a name="MJXc-Node-29"></a><a name="MJXc-Node-28"></a><a name="MJXc-Node-27"></a><a name="MJXc-Node-25"></a><a name="MathJax-Element-7-Frame"></a><a name="MJXc-Node-26"></a><a name="MJXc-Node-30"></a><a name="MJXc-Node-31"></a><a name="MJXc-Node-32"></a><a name="MJXc-Node-33"></a><a name="MJXc-Node-34"></a><a name="MJXc-Node-35"></a><a name="MathJax-Element-8-Frame"></a><a name="MJXc-Node-36"></a><a name="MJXc-Node-37"></a><a name="MJXc-Node-38"></a><a name="MJXc-Node-39"></a><a name="MJXc-Node-41"></a><a name="MJXc-Node-40"></a><a name="MathJax-Element-9-Frame"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Swap
+	any two bits at indices&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">i</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">j</font></font>&nbsp;respectively
+	(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">i</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">,</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">j</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>),
+	the cost of this operation is&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">|</font></font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">i</font></font><font size="4" style="font-size: 13pt">−</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">j</font></font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">|</font></font>,
+	that is, the absolute difference between&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">i</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">j</font></font>.</span></font></font></font></p>
+	<li/>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-10-Frame"></a><a name="MJXc-Node-42"></a><a name="MJXc-Node-43"></a><a name="MJXc-Node-44"></a><a name="MathJax-Element-11-Frame"></a><a name="MJXc-Node-45"></a><a name="MJXc-Node-46"></a><a name="MJXc-Node-47"></a><a name="MJXc-Node-48"></a><a name="MJXc-Node-49"></a><a name="MJXc-Node-50"></a><a name="MJXc-Node-51"></a><a name="MathJax-Element-12-Frame"></a><a name="MJXc-Node-52"></a><a name="MJXc-Node-53"></a><a name="MJXc-Node-54"></a><a name="MathJax-Element-13-Frame"></a><a name="MJXc-Node-55"></a><a name="MJXc-Node-56"></a><a name="MJXc-Node-57"></a><a name="MathJax-Element-14-Frame"></a><a name="MJXc-Node-58"></a><a name="MJXc-Node-59"></a><a name="MJXc-Node-60"></a><a name="MathJax-Element-15-Frame"></a><a name="MJXc-Node-63"></a><a name="MJXc-Node-62"></a><a name="MJXc-Node-61"></a><a name="MathJax-Element-16-Frame"></a><a name="MJXc-Node-64"></a><a name="MJXc-Node-65"></a><a name="MJXc-Node-66"></a>
+	<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Select
+	any arbitrary index&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">i</font></font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">i</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>)
+	and flip (change&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">0</font></font>&nbsp;to&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font>&nbsp;or&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font>&nbsp;to&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">0</font></font>)
+	the bit at this index. The cost of this operation is&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font>.</span></font></font></font></p>
+</ul>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-17-Frame"></a><a name="MJXc-Node-67"></a><a name="MJXc-Node-68"></a><a name="MJXc-Node-69"></a><a name="MJXc-Node-72"></a><a name="MJXc-Node-71"></a><a name="MathJax-Element-18-Frame"></a><a name="MJXc-Node-70"></a><a name="MathJax-Element-19-Frame"></a><a name="MJXc-Node-73"></a><a name="MJXc-Node-74"></a><a name="MJXc-Node-75"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Find
+the minimum cost to make the string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;equal
+to&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>.
+It is not allowed to modify string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-20-Frame"></a><a name="MJXc-Node-76"></a><a name="MJXc-Node-77"></a><a name="MJXc-Node-78"></a><a name="MathJax-Element-21-Frame"></a><a name="MJXc-Node-79"></a><a name="MJXc-Node-80"></a><a name="MJXc-Node-81"></a><a name="MJXc-Node-82"></a><a name="MJXc-Node-83"></a><a name="MJXc-Node-84"></a><a name="MJXc-Node-85"></a><a name="MJXc-Node-86"></a><a name="MathJax-Element-22-Frame"></a><a name="MJXc-Node-88"></a><a name="MJXc-Node-89"></a><a name="MJXc-Node-90"></a><a name="MathJax-Element-23-Frame"></a><a name="MJXc-Node-91"></a><a name="MJXc-Node-92"></a><a name="MJXc-Node-93"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains a single integer&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>&nbsp;(<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font><font size="4" style="font-size: 13pt">≤</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">10</font></font><sup><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="2" style="font-size: 9pt">6</font></font></sup>)&nbsp;—
+the length of the strings&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>.</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-96"></a><a name="MJXc-Node-95"></a><a name="MathJax-Element-24-Frame"></a><a name="MJXc-Node-94"></a><a name="MJXc-Node-97"></a><a name="MathJax-Element-25-Frame"></a><a name="MJXc-Node-99"></a><a name="MJXc-Node-98"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+second and third lines contain strings&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>&nbsp;respectively.</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-26-Frame"></a><a name="MJXc-Node-100"></a><a name="MJXc-Node-101"></a><a name="MJXc-Node-102"></a><a name="MathJax-Element-27-Frame"></a><a name="MJXc-Node-103"></a><a name="MJXc-Node-104"></a><a name="MJXc-Node-105"></a><a name="MathJax-Element-28-Frame"></a><a name="MJXc-Node-106"></a><a name="MJXc-Node-107"></a><a name="MJXc-Node-108"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Both
+strings&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>&nbsp;have
+length&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">n</font></font>&nbsp;and
+contain only '<font face="courier new, monospace"><font size="3" style="font-size: 11pt">0</font></font>'
+and '<font face="courier new, monospace"><font size="3" style="font-size: 11pt">1</font></font>'.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MathJax-Element-29-Frame"></a><a name="MJXc-Node-111"></a><a name="MJXc-Node-110"></a><a name="MJXc-Node-109"></a><a name="MathJax-Element-30-Frame"></a><a name="MJXc-Node-112"></a><a name="MJXc-Node-113"></a><a name="MJXc-Node-114"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Output
+the minimum cost to make the string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;equal
+to&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">b</font></font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; text-transform: lowercase; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><b><font color="#222222">input</span></b></font></font></p>
+<div id="id008092333311047271" dir="ltr">
+	<p style="margin-left: 0.03cm; margin-right: 0.03cm; margin-top: 0.03cm; margin-bottom: 0.03cm; line-height: 110%; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: 1px solid #b9b9b9; padding: 0.08cm"><font color="#888888">Copy</span></font></p>
+</div>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0005438296647437002"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">3</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">100</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">001</span></font></font></font></pre><p style="margin-bottom: 0cm; text-transform: lowercase; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><b><font color="#222222">output</span></b></font></font></p>
+<div id="id007341410883266724" dir="ltr">
+	<p style="margin-left: 0.03cm; margin-right: 0.03cm; margin-top: 0.03cm; margin-bottom: 0.03cm; line-height: 110%; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: 1px solid #b9b9b9; padding: 0.08cm"><font color="#888888">Copy</span></font></p>
+</div>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id006504901159878658"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">2</span></font></font></font></pre><p style="margin-bottom: 0cm; text-transform: lowercase; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><b><font color="#222222">input</span></b></font></font></p>
+<div id="id006179284926836421" dir="ltr">
+	<p style="margin-left: 0.03cm; margin-right: 0.03cm; margin-top: 0.03cm; margin-bottom: 0.03cm; line-height: 110%; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: 1px solid #b9b9b9; padding: 0.08cm"><font color="#888888">Copy</span></font></p>
+</div>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0020051346752084265"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">0101</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">0011</span></font></font></font></pre><p style="margin-bottom: 0cm; text-transform: lowercase; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><b><font color="#222222">output</span></b></font></font></p>
+<div id="id0029036338394845385" dir="ltr">
+	<p style="margin-left: 0.03cm; margin-right: 0.03cm; margin-top: 0.03cm; margin-bottom: 0.03cm; line-height: 110%; orphans: 2; widows: 2">
+	<span style="display: inline-block; border: 1px solid #b9b9b9; padding: 0.08cm"><font color="#888888">Copy</span></font></p>
+</div>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0049350841779062216"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Consolas, Lucida Console, Andale Mono, Bitstream Vera Sans Mono, Courier New, Courier"><font size="2" style="font-size: 9pt"><font color="#880000">1</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-117"></a><a name="MJXc-Node-115"></a><a name="MathJax-Element-31-Frame"></a><a name="MJXc-Node-116"></a><a name="MathJax-Element-32-Frame"></a><a name="MJXc-Node-118"></a><a name="MJXc-Node-119"></a><a name="MJXc-Node-120"></a><a name="MathJax-Element-33-Frame"></a><a name="MJXc-Node-121"></a><a name="MJXc-Node-122"></a><a name="MJXc-Node-123"></a><a name="MathJax-Element-34-Frame"></a><a name="MJXc-Node-124"></a><a name="MJXc-Node-125"></a><a name="MJXc-Node-126"></a><a name="MathJax-Element-35-Frame"></a><a name="MJXc-Node-129"></a><a name="MJXc-Node-128"></a><a name="MJXc-Node-127"></a><a name="MathJax-Element-36-Frame"></a><a name="MJXc-Node-130"></a><a name="MJXc-Node-131"></a><a name="MJXc-Node-132"></a><a name="MJXc-Node-133"></a><a name="MJXc-Node-134"></a><a name="MJXc-Node-135"></a><a name="MJXc-Node-136"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example, one of the optimal solutions is to flip
+index&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font>&nbsp;and
+index&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">3</font></font>,
+the string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;changes
+in the following way: &quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">100</font></font>&quot;&nbsp;→&nbsp;&quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">000</font></font>&quot;&nbsp;→&nbsp;&quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">001</font></font>&quot;.
+The cost is&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1+1=2</font></font>.</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-139"></a><a name="MJXc-Node-137"></a><a name="MathJax-Element-37-Frame"></a><a name="MJXc-Node-138"></a><a name="MJXc-Node-140"></a><a name="MJXc-Node-141"></a><a name="MJXc-Node-142"></a><a name="MathJax-Element-38-Frame"></a><a name="MathJax-Element-39-Frame"></a><a name="MJXc-Node-143"></a><a name="MJXc-Node-144"></a><a name="MJXc-Node-145"></a><a name="MathJax-Element-40-Frame"></a><a name="MJXc-Node-146"></a><a name="MJXc-Node-147"></a><a name="MJXc-Node-148"></a><a name="MJXc-Node-150"></a><a name="MJXc-Node-153"></a><a name="MJXc-Node-152"></a><a name="MJXc-Node-151"></a><a name="MJXc-Node-149"></a><a name="MathJax-Element-41-Frame"></a><a name="MJXc-Node-154"></a><a name="MJXc-Node-155"></a><a name="MJXc-Node-156"></a><a name="MJXc-Node-157"></a><a name="MJXc-Node-158"></a><a name="MJXc-Node-159"></a><a name="MJXc-Node-160"></a><a name="MJXc-Node-161"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+other optimal solution is to swap bits and indices&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">1</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">3</font></font>,
+the string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;changes
+then &quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">100</font></font>&quot;&nbsp;→&nbsp;&quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">001</font></font>&quot;,
+the cost is also&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">|1</font></font><font size="4" style="font-size: 13pt">−</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">3|=2</font></font>.</span></font></font></font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2"><a name="MJXc-Node-164"></a><a name="MJXc-Node-162"></a><a name="MathJax-Element-42-Frame"></a><a name="MJXc-Node-163"></a><a name="MathJax-Element-43-Frame"></a><a name="MJXc-Node-165"></a><a name="MJXc-Node-166"></a><a name="MJXc-Node-167"></a><a name="MJXc-Node-169"></a><a name="MJXc-Node-170"></a><a name="MJXc-Node-168"></a><a name="MathJax-Element-44-Frame"></a><a name="MathJax-Element-45-Frame"></a><a name="MJXc-Node-171"></a><a name="MJXc-Node-172"></a><a name="MJXc-Node-173"></a><a name="MathJax-Element-46-Frame"></a><a name="MJXc-Node-178"></a><a name="MJXc-Node-177"></a><a name="MJXc-Node-176"></a><a name="MJXc-Node-175"></a><a name="MJXc-Node-174"></a><a name="MJXc-Node-179"></a><a name="MJXc-Node-180"></a><a name="MJXc-Node-181"></a><a name="MJXc-Node-182"></a><a name="MJXc-Node-183"></a><a name="MJXc-Node-184"></a><a name="MJXc-Node-185"></a><a name="MJXc-Node-186"></a>
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the second example, the optimal solution is to swap bits at
+indices&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">2</font></font>&nbsp;and&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">3</font></font>,
+the string&nbsp;<font face="MJXc-TeX-math-I, MJXc-TeX-math-Ix, MJXc-TeX-math-Iw"><font size="4" style="font-size: 13pt">a</font></font>&nbsp;changes
+as &quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">0101</font></font>&quot;&nbsp;→&nbsp;&quot;<font face="courier new, monospace"><font size="3" style="font-size: 11pt">0011</font></font>&quot;.
+The cost is&nbsp;<font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">|2</font></font><font size="4" style="font-size: 13pt">−</font><font face="MJXc-TeX-main-R, MJXc-TeX-main-Rw"><font size="4" style="font-size: 13pt">3|=1</font></font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+

@@ -1,0 +1,58 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+are given an integer&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>&nbsp;that
+consists of&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;digits.
+You are also given a sequence of digits&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;of
+length&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>.
+The digit in position&nbsp;<font size="3" style="font-size: 12pt"><i>j</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>j</i></font> ≤ <font size="3" style="font-size: 12pt"><i>m</i></font>)
+of sequence&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;means
+that you can choose an arbitrary position&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>i</i></font> ≤ <font size="3" style="font-size: 12pt"><i>n</i></font>)
+in&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>&nbsp;and
+replace the digit in the chosen position&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>&nbsp;with&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font><sub><font size="2" style="font-size: 9pt"><i>j</i></font></sub>.
+Each element in the sequence&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;can
+participate in no more than one replacing operation.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Your
+task is to perform such sequence of replacements, that the given
+number&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>&nbsp;gets
+maximum value. You are allowed to use not all elements from&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains positive integer&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>.
+Its length&nbsp;<font size="3" style="font-size: 12pt"><i>n</i></font>&nbsp;is
+positive and doesn't exceed&nbsp;<font size="3" style="font-size: 12pt">1</font><font size="3" style="font-size: 12pt">0</font><sup><font size="3" style="font-size: 12pt">5</font></sup>.
+The second line contains sequence of digits&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>.
+Its length&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;is
+positive and doesn't exceed&nbsp;<font size="3" style="font-size: 12pt">1</font><font size="3" style="font-size: 12pt">0</font><sup><font size="3" style="font-size: 12pt">5</font></sup>.
+The digits in the sequence&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>&nbsp;are
+written consecutively without any separators.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+given number&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>&nbsp;doesn't
+contain leading zeroes.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Print
+the maximum value that can be obtained from&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>&nbsp;after
+a series of replacements. You are allowed to use not all elements
+from&nbsp;<font size="3" style="font-size: 12pt"><i>s</i></font>. The
+printed number shouldn't contain any leading zeroes.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Examples</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009026104452035368"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1024</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">010</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id004423094474668874"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1124</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009101184345918174"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">987</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">1234567</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id00009545546011143546"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">987</span></font></font></font></pre><p style="margin-bottom: 0cm; line-height: 100%">
+<br/>
+
+</p>

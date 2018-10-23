@@ -1,0 +1,73 @@
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222"><br/>
+Due
+to the increase in the number of students of Kullu State University
+it was decided to equip a new computer room. You were given the task
+of buying mouses, and you have to spend as little as possible. After
+all, the country is in crisis!</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+computers bought for the room were different. Some of them had only
+USB ports, some&nbsp;— only PS/2 ports, and some had both options.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+have found a price list of a certain computer shop. In it,
+for&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;mouses
+it is specified the cost and the type of the port that is required to
+plug the mouse in (USB or PS/2). Each mouse from the list can be
+bought at most once.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">You
+want to buy some set of mouses from the given price list in such a
+way so that you maximize the number of computers equipped with mouses
+(it is not guaranteed that you will be able to equip all of the
+computers), and in case of equality of this value you want to
+minimize the total cost of mouses you will buy.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Input</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+first line contains three integers&nbsp;<font size="3" style="font-size: 12pt"><i>a</i></font>,&nbsp;<font size="3" style="font-size: 12pt"><i>b</i></font>&nbsp;and&nbsp;<font size="3" style="font-size: 12pt"><i>c</i></font>&nbsp;(<font size="3" style="font-size: 12pt">0 ≤ </font><font size="3" style="font-size: 12pt"><i>a</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>b</i></font><font size="3" style="font-size: 12pt">, </font><font size="3" style="font-size: 12pt"><i>c</i></font> ≤ <font size="3" style="font-size: 12pt">10</font><sup><font size="2" style="font-size: 9pt">5</font></sup>)
+&nbsp;— the number of computers that only have USB ports, the
+number of computers, that only have PS/2 ports, and the number of
+computers, that have both options, respectively.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+next line contains one integer&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;(<font size="3" style="font-size: 12pt">0 ≤ </font><font size="3" style="font-size: 12pt"><i>m</i></font> ≤ <font size="3" style="font-size: 12pt">3·10</font><sup><font size="2" style="font-size: 9pt">5</font></sup>)
+&nbsp;— the number of mouses in the price list.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">The
+next&nbsp;<font size="3" style="font-size: 12pt"><i>m</i></font>&nbsp;lines
+each describe another mouse. The&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+line contains first integer&nbsp;<font size="3" style="font-size: 12pt"><i>val</i></font><font size="2" style="font-size: 9pt"><i>i</i></font>&nbsp;(<font size="3" style="font-size: 12pt">1 ≤ </font><font size="3" style="font-size: 12pt"><i>val</i></font><sub><font size="2" style="font-size: 9pt"><i>i</i></font></sub> ≤ <font size="3" style="font-size: 12pt">10</font><sup><font size="2" style="font-size: 9pt">9</font></sup>)
+&nbsp;— the cost of the&nbsp;<font size="3" style="font-size: 12pt"><i>i</i></font>-th
+mouse, then the type of port (USB or PS/2) that is required to plug
+the mouse in.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Output</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">Output
+two integers separated by space&nbsp;— the number of equipped
+computers and the total cost of the mouses you will buy.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b><font color="#222222">Example</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">input</span></b></font></font></p>
+<pre class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id009689433795097433"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">2 1 1</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">4</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">5 USB</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">6 PS/2</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3 PS/2</span></font></font></font>
+<span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">7 PS/2</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border-top: none; border-bottom: 1px solid #888888; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.05cm; padding-left: 0cm; padding-right: 0cm"><font face="Arial, sans-serif"><b><font color="#222222">output</span></b></font></font></p>
+<pre class="western" style="margin-bottom: 0.5cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2; background: #efefef"><a name="id0018935728069054725"></a><span style="display: inline-block; border: 1px solid #888888; padding: 0.05cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><font color="#880000">3 14</span></font></font></font></pre><p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b><font color="#222222">Note</span></b></font></font></font></p>
+<p style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
+<span style="display: inline-block; border: none; padding: 0cm"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><font color="#222222">In
+the first example you can buy the first three mouses. This way you
+will equip one of the computers that has only a USB port with a USB
+mouse, and the two PS/2 mouses you will plug into the computer with
+PS/2 port and the computer with both ports.</span></font></font></font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
