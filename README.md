@@ -1,3 +1,5 @@
+/* For checking how the system look check screenshot directory*/
+
 /* Requirement */
 
 Xampp
